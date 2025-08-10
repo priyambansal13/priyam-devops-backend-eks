@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: vprofile.thehkh.com
+  - host: vprofile.thehkh.com #domain name neeeds to be updated as per user
     http:
       paths:
       - path: /
